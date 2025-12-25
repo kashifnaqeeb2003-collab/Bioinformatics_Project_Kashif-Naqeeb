@@ -1,0 +1,1 @@
+"Subcellular Localization: The protein is predicted to localize to the Nucleus. DeepLoc 2.0 identified a specific Nuclear Localization Signal (NLS) with high probability, and WoLF PSORT consistently assigned a high localization score (4.5) to the nuclear compartment."
